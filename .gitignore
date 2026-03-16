@@ -1,0 +1,5 @@
+build
+!.vscode/*
+modules/samples/
+.DS_Store
+.vscode/
